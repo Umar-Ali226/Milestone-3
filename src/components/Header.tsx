@@ -13,7 +13,7 @@ const Header = () => {
     <main>
         <div className='bg-blue-600 flex justify-between font-sans p-2'>
   <div className='text-2xl font-bold sm:text-3xl font-bold'>
-        UmarsBlog
+        Umar's Blog
     </div>
     <div >
     <Sheet>
