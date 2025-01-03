@@ -12,7 +12,7 @@ const Footer = () => {
           and let knowledge inspire you to achieve greater heights. </p> </div>
     <div className='flex justify-center items-center gap-2 mb-2'>
     <FaCopyright />
-    <p>2025 Umar`sBlog. All Rights Reserved.</p>
+    <p>2025 Umar`s Blog. All Rights Reserved.</p>
     </div>
     </div>
     </main>
