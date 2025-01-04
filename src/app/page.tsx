@@ -72,7 +72,7 @@ export default function Home() {
           by Bjarne Stroustrup in 1979 as an extension of the C language. It’s widely used for system software,
            game development, and high-performance applications.</p>
           </div>
-          <Link href="/posts/c++">
+          <Link href="/posts/c-plus-plus">
           <button className="text-blue-800 rounded-lg m-2 ml-3 mt-0 px-4 hover:bg-blue-600 hover:text-black">
       Read more...
     </button>
