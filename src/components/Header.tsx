@@ -21,6 +21,8 @@ const Header = () => {
   <SheetContent>
   <ul>
   <li><Link href="/">Blogs</Link></li>
+  <li><Link href="/about">About</Link></li>
+  <li><Link href="/contact">Contact</Link></li>
     </ul>
   </SheetContent>
 </Sheet>
