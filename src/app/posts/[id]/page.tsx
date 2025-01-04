@@ -51,7 +51,7 @@ const posts = [
 },
 
 {
-    id: "c++",
+    id: "c-plus-plus",
     image: image4,
     title1: "What C++ ?",
     description1: "C++ is a general-purpose, object-oriented programming language created by Bjarne Stroustrup in 1979 as an extension of the C language. It’s widely used for system software, game development, and high-performance applications.",
